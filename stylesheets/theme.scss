@@ -387,7 +387,8 @@ body { @include body-font;}
 input, select, textarea { @include field-font }
 
 // Header
-.header { background-color: $header-background-color; }
+.header { 
+  background: #448993; }
 
 @media screen and (max-width: 52.5em) {
   .header { border-bottom: 1px solid $header-border-color; }
