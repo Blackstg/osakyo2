@@ -424,7 +424,7 @@ input, select, textarea { @include field-font }
 .burger-menu__line { border-top: 4px solid $burger-menu-color; }
 
 // Category navigation
-.category-navigation { background-color: $navigation-background-color; }
+.category-navigation { background-color: #448993; }
 .category-navigation__item { @include navigation-font; }
 .category-navigation__link:hover,
 .category-navigation__item_active .category-navigation__link { color: $navigation-active-color; background-color: $navigation-background-active-color; }
