@@ -289,5 +289,5 @@ input, select, textarea { @include field-font }
 .grouped-skus__radio:disabled + .grouped-skus__text { color: $grouped-skus-button-disabled-color; background-color: $grouped-skus-button-disabled-background-color; }
 
 .page__header{
-  background: #448993;
+  background: red;
 }
