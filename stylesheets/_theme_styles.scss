@@ -287,3 +287,7 @@ input, select, textarea { @include field-font }
 .grouped-skus__item:first-child .grouped-skus__text { border-left: none; }
 .grouped-skus__radio:checked + .grouped-skus__text { color: $grouped-skus-button-active-color; background-color: $grouped-skus-button-active-background-color; }
 .grouped-skus__radio:disabled + .grouped-skus__text { color: $grouped-skus-button-disabled-color; background-color: $grouped-skus-button-disabled-background-color; }
+
+.page__header{
+  background: #448993;
+}
