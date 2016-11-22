@@ -3,3 +3,8 @@
 .category-navigation__item, .product__name, .basket__title, .product__description{
 font-family: 'Montserrat', sans-serif !important;
 }
+
+.category-navigation__item {
+font-size: 12px;
+text-transform: uppercase;
+}
