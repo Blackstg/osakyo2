@@ -368,9 +368,7 @@ $grouped-skus-button-disabled-background-color: #ddd;
 @mixin grouped-skus-title-font { @include set-font($base-font, 1.6rem, $grouped-skus-title-color, 700) }
 @mixin grouped-skus-button-font { @include set-font($base-font, 1.4rem, $grouped-skus-button-color, 400); }
 
-.content__secondary{
-  background: #448993;
-}
+
 .header__logo-image{
   width:86px;
 }
