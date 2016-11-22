@@ -25,3 +25,11 @@ text-transform: uppercase;
 font-weight: 100;
 color:#2b353f;
 }
+
+.product__description{
+font-family: 'Montserrat', sans-serif !important;
+font-size: 11px;
+text-transform: uppercase;
+font-weight: 100;
+color:#828282;
+}
