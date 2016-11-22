@@ -1,5 +1,3 @@
-.test5 {}
-
 .category-navigation__item, .product__name, .basket__title, .product__description, .product__add{
 font-family: 'Montserrat', sans-serif !important;
 }
@@ -38,4 +36,8 @@ color:#828282;
 font-family: 'Montserrat', sans-serif !important;
 font-size: 14px;
 text-transform: uppercase;
+}
+
+.content__secondary{
+  background: #272727;
 }
