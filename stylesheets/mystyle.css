@@ -75,7 +75,7 @@ border:0;
 background-color:#fce67b;
 }
 
-.basket__footer, .basket__empty, .basket__header{
+.basket__footer, .basket__empty, .basket__header, .basket__items{
 background-color:#fce67b;
 }
 
@@ -123,5 +123,11 @@ border:0;
 .basket__total-title, .basket__total-amount{
 font-family: 'Montserrat', sans-serif !important;
 font-size: 12px;
+text-transform: uppercase;
+}
+
+.basket-item__title{
+font-family: 'Montserrat', sans-serif !important;
+font-size: 10px;
 text-transform: uppercase;
 }
