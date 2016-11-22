@@ -138,3 +138,9 @@ font-size: 12px;
 text-transform: uppercase;
 background-color: #000;
 }
+
+.dropdown-menu__header-link{
+font-family: 'Montserrat', sans-serif !important;
+font-size: 12px;
+text-transform: uppercase;
+}
