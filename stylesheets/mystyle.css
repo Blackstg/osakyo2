@@ -111,3 +111,11 @@ font-size:9px;
 .basket__delivery-radio{
 opacity:0.1;
 }
+
+.nice-select{
+font-family: 'Montserrat', sans-serif !important;
+text-transform: uppercase;
+font-weight: 300;
+font-size:9px;
+border:0;
+}
