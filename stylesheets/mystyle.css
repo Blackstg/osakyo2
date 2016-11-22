@@ -86,4 +86,6 @@ background-color:#fce67b;
 .basket__repeat{
 font-family: 'Montserrat', sans-serif !important;
 text-transform: uppercase;
+font-weight: 100;
+font-size:8px;
 }
