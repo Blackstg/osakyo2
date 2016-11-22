@@ -131,3 +131,10 @@ font-family: 'Montserrat', sans-serif !important;
 font-size: 10px;
 text-transform: uppercase;
 }
+
+.message_info{
+font-family: 'Montserrat', sans-serif !important;
+font-size: 12px;
+text-transform: uppercase;
+background-color: #000;
+}
