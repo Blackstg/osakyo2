@@ -5,6 +5,14 @@ font-family: 'Montserrat', sans-serif !important;
 }
 
 .category-navigation__item {
+font-family: 'Montserrat', sans-serif !important;
 font-size: 12px;
 text-transform: uppercase;
+}
+
+.product__add{
+font-family: 'Montserrat', sans-serif !important;
+font-size: 10px;
+text-transform: uppercase;
+padding:5px 10px;
 }
