@@ -82,3 +82,8 @@ background-color:#fce67b;
 .basket__footer, .basket__empty, .basket__header{
 background-color:#fce67b;
 }
+
+.basket__repeat{
+font-family: 'Montserrat', sans-serif !important;
+text-transform: uppercase;
+}
