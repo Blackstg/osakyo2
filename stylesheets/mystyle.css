@@ -231,7 +231,7 @@ padding: 10px 0 10px 10px;
 
 @media screen and (max-width: 66,25em)  {
 .content__secondary{
-  width: 180px;
+  width: 140px!important;
 }
 .category-navigation__item {
 padding: 10px 0 10px 20px;
@@ -240,7 +240,7 @@ padding: 10px 0 10px 20px;
 
 @media screen and (max-width: 70em)  {
 .content__secondary{
-  width: 180px;
+  width: 140px!important;
 }
 .category-navigation__item {
 padding: 10px 0 10px 20px;
