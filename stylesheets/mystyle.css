@@ -212,7 +212,7 @@ font-weight: 100;
 color:#F2F2F2;
 }
 
-.checkout-row__label, .checkout-row__group-label, .checkout-variant__label, .checkout-variant__select-label, .card-entry__label, .card-entry__saved-card-label{
+.checkout-row__label, .checkout-row__group-label, .checkout-variant__label, .checkout-variant__select-label, .card-entry__label, .card-entry__saved-card-label, .checkout-row__group{
 font-family: 'Montserrat', sans-serif !important;
 font-size: 10px;
 text-transform: uppercase;
