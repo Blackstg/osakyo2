@@ -89,6 +89,14 @@ font-weight: 100;
 color:#828282;
 }
 
+.basket-menu__items{
+background-color: transparent;
+border: none;
+font-family: 'Montserrat', sans-serif !important;
+color: #fce67b;
+font-weight: 600;
+}
+
 .basket{
 border:0;
 background-color:#fce67b;
