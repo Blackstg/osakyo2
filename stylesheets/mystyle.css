@@ -242,7 +242,8 @@ input, select, textarea{
   font-weight: 100;
 color: #fff;
 background-color: #555;
-  font-style:none;
+  text-decoration:none;
+  padding: 13px 20px;
 }
 
 
