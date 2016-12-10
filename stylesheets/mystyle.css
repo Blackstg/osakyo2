@@ -226,7 +226,7 @@ padding: 10px 0 10px 20px;
 }
 }
 
-@media screen (min-width: 60em) and (max-width: 80em)  {
+@media screen (min-width: 60em) and (max-width: 66,25em)  {
 .content__secondary{
   width: 180px;
 }
