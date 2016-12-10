@@ -252,7 +252,7 @@ color: #828282;
 font-weight: 100;
 }
 
-div.checkout-row__group-item.checkout-row__group-item_forgot-password{
+div.checkout-row__group-item.checkout-row__group-item_forgot-password, .checkout-row__hint{
 font-family: 'Montserrat', sans-serif !important;
 color: #828282;
 font-weight: 100;
