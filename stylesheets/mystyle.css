@@ -219,7 +219,7 @@ color:#828282;
 
 @media screen and (max-width: 60em)  {
 .content__secondary{
-  width: 130px;
+  width: 130px!important;
 }
 .category-navigation__item {
 padding: 10px 0 10px 10px;
