@@ -237,3 +237,12 @@ padding: 10px 0 10px 10px;
 padding: 10px 0 10px 20px;
 }
 }
+
+@media screen and (max-width: 70em)  {
+.content__secondary{
+  width: 180px;
+}
+.category-navigation__item {
+padding: 10px 0 10px 20px;
+}
+}
