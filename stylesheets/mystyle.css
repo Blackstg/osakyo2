@@ -252,6 +252,13 @@ color: #828282;
 font-weight: 100;
 }
 
+div.checkout-row__group-item.checkout-row__group-item_forgot-password{
+font-family: 'Montserrat', sans-serif !important;
+color: #828282;
+font-weight: 100;
+ font-size:10px;
+}
+
 @media screen and (max-width: 60em)  {
 .content__secondary{
   width: 130px!important;
