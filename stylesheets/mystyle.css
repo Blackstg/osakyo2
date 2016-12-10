@@ -220,6 +220,11 @@ font-weight: 100;
 color:#828282;
 }
 
+.checkout-row__group{
+font-size: 10px!important;
+color:#F2F2F2;
+}
+
 input, select, textarea{
   font-family: 'Montserrat', sans-serif !important;
   font-size:11px!important;
