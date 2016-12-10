@@ -217,7 +217,7 @@ font-weight: 100;
 color:#828282;
 }
 
-@media screen and (max-width: 800px)  {
+@media screen and (max-width: 60em)  {
 .content__secondary{
   width: 180px;
 }
