@@ -13,7 +13,7 @@ font-weight: 100;
 padding: 10px 0 10px 40px;
 }
 
-.account-navigation__item {
+.account-navigation__item, .checkout-navigation__item {
 font-family: 'Montserrat', sans-serif !important;
 font-size: 12px;
 text-transform: uppercase;
