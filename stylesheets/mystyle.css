@@ -223,6 +223,8 @@ color:#828282;
 input, select, textarea{
   font-family: 'Montserrat', sans-serif !important;
   font-size:11px!important;
+  border: none;
+  padding: 10px!important;
 }
 
 @media screen and (max-width: 60em)  {
