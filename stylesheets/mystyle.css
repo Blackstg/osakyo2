@@ -219,6 +219,15 @@ color:#828282;
 
 @media screen and (max-width: 60em)  {
 .content__secondary{
+  width: 130px;
+}
+.category-navigation__item {
+padding: 10px 0 10px 20px;
+}
+}
+
+@media screen and (max-width: 90em)  {
+.content__secondary{
   width: 180px;
 }
 .category-navigation__item {
