@@ -97,6 +97,10 @@ color: #fce67b;
 font-weight: 600;
 }
 
+.basket__footer-red-message{
+background-color: #ea6e6b;
+}
+
 .basket{
 border:0;
 background-color:#fce67b;
