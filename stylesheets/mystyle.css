@@ -220,6 +220,11 @@ font-weight: 100;
 color:#828282;
 }
 
+input, select, textarea{
+  font-family: 'Montserrat', sans-serif !important;
+  font-size:11px!important;
+}
+
 @media screen and (max-width: 60em)  {
 .content__secondary{
   width: 130px!important;
