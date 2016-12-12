@@ -283,6 +283,10 @@ font-size:12px;
 text-transform:uppercase;
 }
 
+.header__shop-menu{
+display:none;
+}
+
 @media screen and (max-width: 60em)  {
 .content__secondary{
   width: 130px!important;
