@@ -263,7 +263,7 @@ background-color: #555;
   padding: 13px 20px;
 }
 
-.checkout-confirm__title, .checkout-confirm__content, .checkout__description {
+.checkout-confirm__title, .checkout-confirm__content, .checkout__description, .card-entry__instructions {
 font-family: 'Montserrat', sans-serif !important;
 color: #828282;
 font-weight: 100;
