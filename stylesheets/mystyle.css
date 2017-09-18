@@ -297,6 +297,9 @@ padding: 10px 0 10px 10px;
   .category-navigation__item{
   font-size:10px;
   }
+  .checkout__facebook-login-button{
+  display:none;
+  }
 }
 
 @media screen and (max-width: 66,25em)  {
