@@ -1,0 +1,136 @@
+{
+  "sections": [
+    {
+      "name": "::section::homepage",
+      "settings": [
+        {
+          "name": "homepage",
+          "type": "boolean",
+          "user": "franchise",
+          "description": "::setting::homepage::enable",
+          "default": false
+        },
+        {
+          "header": "::header::homepage::slideshow"
+        },
+        {
+          "name": "homepage_slideshow",
+          "type": "slideshow",
+          "user": "franchise",
+          "description": "::setting::slideshow::desktop",
+          "max_width": 1200
+        }
+      ]
+    },
+    {
+      "name": "::section::content",
+      "settings": [
+        {
+          "header": "::header::information"
+        },
+        {
+          "name": "additional_info",
+          "type": "rich_text",
+          "user": "branch",
+          "description": "::setting::additional_info"
+        },
+        {
+          "name": "opening_times",
+          "type": "rich_text",
+          "user": "branch",
+          "description": "::setting::opening_times"
+        },
+        {
+          "name": "terms_acceptance",
+          "type": "rich_text",
+          "user": "franchise",
+          "description": "::setting::terms_acceptance"
+        },
+        {
+          "header": "::header::messages"
+        },
+        {
+          "name": "important_message",
+          "type": "plain_text",
+          "user": "branch",
+          "description": "::setting::important_message"
+        }
+      ]
+    },
+    {
+      "name": "::section::parameters",
+      "settings": [
+        {
+          "header": "::header::seo"
+        },
+        {
+          "name": "title",
+          "type": "plain_text",
+          "user": "branch",
+          "description": "::setting::seo::title"
+        },
+        {
+          "name": "meta_description",
+          "type": "plain_text",
+          "user": "franchise",
+          "description": "::setting::seo::meta_description"
+        },
+        {
+          "name": "meta_keywords",
+          "type": "plain_text",
+          "user": "franchise",
+          "description": "::setting::seo::meta_keywords"
+        }
+      ]
+    },
+    {
+      "name": "::section::links",
+      "settings": [
+        {
+          "name": "top_links",
+          "type": "link_list",
+          "user": "franchise",
+          "description": "::setting::links::top"
+        },
+        {
+          "name": "footer_links",
+          "type": "link_list",
+          "user": "franchise",
+          "description": "::setting::links::footer"
+        }
+      ]
+    },
+    {
+      "name": "::section::admin",
+      "settings": [
+        {
+          "header": "::header::urls"
+        },
+        {
+          "name": "shopping_page_url",
+          "type": "plain_text",
+          "user": "franchise",
+          "description": "::setting::shopping_page_url"
+        },
+        {
+          "name": "index_redirection_url",
+          "type": "plain_text",
+          "user": "franchise",
+          "description": "::setting::index_redirection_url"
+        },
+        {
+          "name": "banner_redirection_url",
+          "type": "plain_text",
+          "user": "franchise",
+          "description": "::setting::banner_redirection_url"
+        }
+      ]
+    }
+  ],
+  "product_tags": {
+    "structure": [
+      "force_customisation",
+      "size_group"
+    ]
+  }
+}
