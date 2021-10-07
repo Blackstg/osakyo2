@@ -6,7 +6,7 @@ input, select, textarea { @include field-font }
 // ...
 
 // Header
-.header { background-color: #448993; }
+.header { background-color: #FDEA7B; }
 
 @media screen and (max-width: 52.5em) {
   .header { border-bottom: 1px solid $header-border-color; }
